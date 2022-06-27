@@ -1,0 +1,144 @@
+.header{
+  background-color: #333F50;
+  padding-right: 20px;
+  padding-left: 30px;
+  padding-top: 10px;
+  height: 180px;
+  width: 100%;
+  position: relative;
+
+}
+.main{
+  width: 768px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+ color: white;
+ font-size: 36px;
+}
+h4{
+  color: #41848C;
+  font-size: 20px;
+}
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+body{
+  background-color: white;
+}
+
+.left{
+  width: 75%;
+  position: absolute;
+}
+.right{
+  padding-top: 30px !important;
+  width: 20%;
+  margin-left: auto;
+}
+
+.objective{
+  padding-top: 10px;
+  color:white;
+  font-size: 20px;
+}
+.profile-pic{
+  width: 140px;
+  height: 130px;
+  border-radius: 50%;
+  border-color: black;
+  border: 5px solid #414140;
+}
+.address{
+  padding-top: 20px;
+  background-color: #222A35;
+  color: white;
+  padding-right: 20px;
+  padding-left: 30px;
+  width: 100%;
+}
+ .icon{
+  width: 16px;
+}
+span{
+  font-size: 18px;
+}
+.address-left{
+  width: 55%;
+  position: absolute;
+}
+.address-right{
+  width: 35%;
+  margin-left: auto;
+  padding-bottom: 27px;
+}
+.icon-group{
+  margin: 10, 10;
+}
+.professional{
+  background-color: #B2D3A3;
+  width: 101%;
+  padding: 20px;
+  position: relative;
+}
+
+.left-side{
+  width: 34%;
+  position: absolute;
+}
+.right-side{
+  border-left: 1px solid;
+  width:62% ;
+  margin-left: auto;
+  padding: 8px;
+}
+.summaryUl{
+  padding-left: 20px;
+}
+.back{
+  background-color: white;
+  margin-bottom: 15px;
+}
+table, th, td{
+  border-collapse: collapse;
+  border: 1px solid;
+  justify-content: center;
+  text-align: center;
+}
+td, th{
+  font-size: 17px;
+}
+
+.lastRow{
+  text-align: right;
+}
+
+.newPage{
+  padding: 20px;
+  position: relative;
+  background-color: #B4D4A5;
+  width: 101%;
+}
+.icon-left{
+  width: 50px;
+   padding-right: 100px; 
+   display: block;
+    margin-left: auto;
+}
+
+.btn{
+  margin-top: 100px;
+  width: 100px;
+  background-color: darkgreen;
+  color: white;
+  outline: none;
+  padding: 5px;
+  border: none;
+}
+
+.RakibBro > li{
+  font-size: 16px;
+}
